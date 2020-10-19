@@ -144,11 +144,6 @@ class SiteController extends Controller
     {
         return $this->render('about');
     }
-    /**Display Projects */
-    public function actionProjects()
-    {
-        return $this->render('projects');
-    }
 
     /**
      * Signs user up.
