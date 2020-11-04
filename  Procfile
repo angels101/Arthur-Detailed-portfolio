@@ -1,5 +1,3 @@
 <?php
-apd_set_pprof_trace();
-
-//rest of the script
+web: heroku-php-apache2 .
 ?>
